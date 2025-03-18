@@ -1,0 +1,3 @@
+C:/Users/Rdu/Desktop/egcpower/gfx-framework-master/CMakeFiles/GFXFramework.dir
+C:/Users/Rdu/Desktop/egcpower/gfx-framework-master/CMakeFiles/ALL_BUILD.dir
+C:/Users/Rdu/Desktop/egcpower/gfx-framework-master/CMakeFiles/ZERO_CHECK.dir

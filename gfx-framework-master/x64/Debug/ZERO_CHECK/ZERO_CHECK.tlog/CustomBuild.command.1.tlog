@@ -1,0 +1,10 @@
+^C:\USERS\RDU\DESKTOP\EGCPOWER\GFX-FRAMEWORK-MASTER\CMAKEFILES\C9544392BD785A1E0CAEC0553B34E573\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Rdu/Desktop/egcpower/gfx-framework-master -BC:/Users/Rdu/Desktop/egcpower/gfx-framework-master --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Rdu/Desktop/egcpower/gfx-framework-master/GFXFramework.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
