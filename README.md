@@ -21,4 +21,7 @@ Welcome to **Tank Wars 2D** – a fun and action-packed tank battle game! 🎮
 
 For detailed instructions, check **Setup_Tank_Wars_2D.html**.  
 
+## 👨‍💻 Code
+The code of the tank game is in gfx-framework-master\src\lab_m1\lab3
+
 ## 🎉 Have Fun & Enjoy the Battle!
