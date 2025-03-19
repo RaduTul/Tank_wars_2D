@@ -1,9 +1,24 @@
-#Tank wars 2D
+# 🎮 Tank Wars 2D 🏆  
 
+Welcome to **Tank Wars 2D** – a fun and action-packed tank battle game! 🎮  
 
-W,A,S,D to move the first tank
-UP,LEFT,DOWN,RIGHT to move the second tank
-ENTER to fire with the first tank
-SPACE to fire with the second tank
+## 🕹️ Controls  
 
-You need CMake and to build and generate project with it. In order to play this and then using Visual Studio run main.c 
+### 🟤 First Tank  
+- **Move:** `A` / `D`  
+- **Aim Turret:** `W` / `S`  
+- **Fire:** `SPACE` 🎯  
+
+### 🔵 Second Tank  
+- **Move:** `LEFT` / `RIGHT`  
+- **Aim Turret:** `UP` / `DOWN`  
+- **Fire:** `ENTER` 🎯  
+
+## 🛠️ Setup & Build  
+1. Install **CMake** if you haven’t already.  
+2. Use **CMake** to build and generate the project.  
+3. Open the project in **Visual Studio** and run `main.c`.  
+
+For detailed instructions, check **Setup_Tank_Wars_2D.html**.  
+
+## 🎉 Have Fun & Enjoy the Battle!
